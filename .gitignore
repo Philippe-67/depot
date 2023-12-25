@@ -366,3 +366,7 @@ FodyWeavers.xsd
 /ConsoleApp4
 /ConsoleApp1
 /ConsoleApp2
+/ConsoleAppPOO/ConsoleAppPOO.csproj
+/ConsoleAppPOO/ConsoleAppPOO.sln
+/ConsoleAppPOO/Program.cs
+/EssaiMoyenne/Program.cs
